@@ -11,13 +11,16 @@ SMS Spam Detector
 
 • Glimpse of the web app:
     
-    - When SMS in not a spam
+   - When SMS is not a spam:
+   
+   ![SMS NotSpam](https://user-images.githubusercontent.com/46351101/142047338-31d4949b-0a93-47ef-9aa4-6d2593c70dbb.gif)
+
+
+    - When SMS is a spam:
     
-    ![SMS NotSpam](https://user-images.githubusercontent.com/46351101/142046247-afb23447-a70c-4821-8e84-3074d16b74a3.gif)
+   ![SMS Spam](https://user-images.githubusercontent.com/46351101/142047385-cf52fe36-7fde-4625-9279-dfb38ddeea03.gif)
     
-    - When SMS in a spam
     
-    ![SMS Spam](https://user-images.githubusercontent.com/46351101/142046386-1876c92e-6082-49ca-9230-bd0821a5215f.gif)
-    
+
 
 
