@@ -1,8 +1,10 @@
 # SMS-Spam-Detector
 SMS Spam Detector
 
-<h3>About Dataset</h3>
-<p>I took this dataset from Kaggle.</p>
+<h5>About Dataset - </h5> <p>I took this dataset from Kaggle.</p>
+
+
+
 
 • This repository consists of files required to end-to-end deployment of ___Machine Learning Web App___ created with ___Flask___ 
   with use of Python 3.8 and NLTK Library .
