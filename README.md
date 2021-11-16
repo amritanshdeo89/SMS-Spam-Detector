@@ -18,7 +18,8 @@ SMS Spam Detector
    ![SMS NotSpam](https://user-images.githubusercontent.com/46351101/142047338-31d4949b-0a93-47ef-9aa4-6d2593c70dbb.gif)
 
 
-    - When SMS is a spam:
+
+   - When SMS is a spam:
     
    ![SMS Spam](https://user-images.githubusercontent.com/46351101/142047385-cf52fe36-7fde-4625-9279-dfb38ddeea03.gif)
     
