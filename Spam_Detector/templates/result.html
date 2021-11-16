@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title>SMS Spam Predictor</title>
+
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+
+	</head>
+
+    <body>
+
+        <!-- Website Title -->
+		<div class="container">
+            <h2 class='container-heading'><span class="heading_font">SMS Spam Detector</span></h2>
+            <div class='description'>
+    			<p>Check whether message is Spam or not.</p>
+    		</div>
+    	</div>
+
+		<!-- Result -->
+		<div class="results">
+			{% if prediction==1 %}
+				<h1>Prediction: <span class='danger'>Oops! It's a Spam :( </span></h1>
+
+			{% elif prediction==0 %}
+				<h1>Prediction: <span class='safe'>Great! It's not a Spam :) </span></h1>
+
+			{% endif %}
+		</div>
+<div class='footer'>
+           <p class='footer-description'>Created by Amritansh Deo.</p>
+    </div>
+
+
+	</body>
+</html>
